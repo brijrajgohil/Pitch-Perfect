@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Pitch Perfect
 //
-//  Created by Beetu on 6/18/15.
+//  Created by Brijrajsinh Gohil on 6/18/15.
 //  Copyright (c) 2015 Brijrajsinh Gohil. All rights reserved.
 //
 
